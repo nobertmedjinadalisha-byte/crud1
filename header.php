@@ -3,17 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <title>CRUD PHP</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
-<header>
-    <h1>Sistema CRUD</h1>
-    <nav>
-        <a href="index.php">Home</a>
-        <a href="create.php">Cadastrar</a>
-        <a href="read.php">Listar</a>
-    </nav>
+<header style="background:#333; color:white; padding:10px;">
+    <h1>Meu Sistema CRUD</h1>
 </header>
 
 <hr>
